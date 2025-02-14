@@ -1,0 +1,1 @@
+[!panarama](img/panarama.jpg)
