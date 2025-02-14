@@ -1,1 +1,1 @@
-[!panarama](img/panarama.jpg)
+![logo](img/panarama.jpg)
